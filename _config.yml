@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Viraj Singh"
   pronouns         : # example: "she/her"  
-  bio              : 
-  location         : "India"
+  bio              : Machine Learning Engineer,  BITS Hyd CS + Economics '22
+  location         : "Bangalore, India"
   employer         : 
   uri              : # URL
   email            : "f20171099h@alumni.bits-pilani.ac.in" 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
