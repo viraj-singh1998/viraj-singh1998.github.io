@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Viraj's Homepage"
+title                    : "Viraj's 'stack"
 title_separator          : "-"
 name                     : &name "Viraj Singh"
 description              : &description "Machine Learning Engineer\nBITS Hyd CS + Economics '22" 
